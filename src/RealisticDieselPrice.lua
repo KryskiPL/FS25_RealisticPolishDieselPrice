@@ -1,10 +1,8 @@
---[[ RealisticDieselPrice.lua change diesel price
+--[[ RealisticDieselPrice.lua
 
 Author:     KryskiPL (https://github.com/KryskiPL)
 Version:    v1.0.0.0
 
-Changelog:
-    v1.0.0.0  - Publish FS25
 ]]--
 
 RealisticDieselPrice = {}
