@@ -9,8 +9,8 @@ RealisticDieselPrice = {}
 function RealisticDieselPrice:loadMap(name)
     local dieselType = g_fillTypeManager:getFillTypeByName("DIESEL")
     if dieselType ~= nil then
-        -- Default: 6.30
-        dieselType.pricePerLiter = 6.30
+        -- Default: 6.20
+        dieselType.pricePerLiter = 6.20
     end
 end
 addModEventListener(RealisticDieselPrice)

@@ -11,10 +11,30 @@
     </title>
 
     <description>
-        <en><![CDATA[This script changes the global diesel price to an amount close to Polish reality, setting it to approximately 6.30 Euro per liter (without the conversion rate). How to use: The script works automatically in the background after activating the mod. There are no hotkeys required. Important information: The dynamic economy means the price may fluctuate between 6 and 7 euros per liter. Buying fuel from a placeable farm tank is more expensive than at a public gas station. The modification supports multiplayer mode. Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></en>
-        <de><![CDATA[Dieses Skript ändert den globalen Dieselpreis auf einen Betrag nahe der polnischen Realität und setzt ihn auf etwa 6,30 Euro pro Liter (ohne den Umrechnungskurs). Verwendung: Das Skript arbeitet nach der Aktivierung des Mods automatisch im Hintergrund. Es werden keine Tastenbelegungen benötigt. Wichtige Informationen: Die dynamische Wirtschaft führt dazu, dass der Preis zwischen 6 und 7 Euro pro Liter schwanken kann. Der Kauf von Kraftstoff in einem Hoftank ist teurer als an einer öffentlichen Tankstelle. Die Modifikation unterstützt den Multiplayer-Modus. Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></de>
-        <fr><![CDATA[Ce script modifie le prix global du diesel pour un montant proche de la réalité polonaise, en le fixant à environ 6,30 Euro par litre (sans le taux de conversion). Utilisation : Le script fonctionne automatiquement en arrière-plan après l'activation du mod. Aucun raccourci clavier n'est requis. Informations importantes : L'économie dynamique fait que le prix peut fluctuer entre 6 et 7 euros par litre. L'achat de carburant dans une cuve de ferme est plus cher qu'à une station-service publique. La modification prend en charge le mode multijoueur. Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></fr>
-        <pl><![CDATA[Skrypt zmienia globalną cenę diesla na kwotę zbliżoną do polskiej rzeczywistości, ustawiając ją na około 6,30 euro za litr (bez przelicznika). Jak używać: Skrypt działa automatycznie w tle po aktywacji modyfikacji. Mod nie wymaga żadnych skrótów klawiszowych. Ważne informacje: Dynamiczna ekonomia sprawia, że cena może się wahać od 6 do 7 euro za litr. Zakup paliwa w stacjonarnym zbiorniku na farmie jest droższy niż na publicznej stacji paliw. Modyfikacja obsługuje tryb wieloosobowy. Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></pl>
+        <en><![CDATA[This script changes the global diesel price to an amount close to Polish reality, setting it to approximately 6.20 Euro per liter (without the conversion rate). 
+How to use: The script works automatically in the background after activating the mod. 
+There are no hotkeys required. 
+Buying fuel from a placeable tank is more expensive than at a public gas station. 
+The modification supports multiplayer mode. 
+Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></en>
+        <de><![CDATA[Dieses Skript ändert den globalen Dieselpreis auf einen Betrag nahe der polnischen Realität und setzt ihn auf etwa 6,20 Euro pro Liter (ohne den Umrechnungskurs). 
+Verwendung: Das Skript arbeitet nach der Aktivierung des Mods automatisch im Hintergrund. 
+Es werden keine Tastenbelegungen benötigt. 
+Der Kauf von Kraftstoff in einem platzierbaren Tank ist teurer als an einer öffentlichen Tankstelle. 
+Die Modifikation unterstützt den Multiplayer-Modus. 
+Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></de>
+        <fr><![CDATA[Ce script modifie le prix global du diesel pour un montant proche de la réalité polonaise, en le fixant à environ 6,20 Euro par litre (sans le taux de conversion). 
+Utilisation : Le script fonctionne automatiquement en arrière-plan après l'activation du mod. 
+Aucun raccourci clavier n'est requis. 
+L'achat de carburant dans une cuve plaçable est plus cher qu'à une station-service publique. 
+La modification prend en charge le mode multijoueur. 
+Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></fr>
+        <pl><![CDATA[Skrypt zmienia globalną cenę diesla na kwotę zbliżoną do polskiej rzeczywistości, ustawiając ją na około 6,20 euro za litr (bez przelicznika).
+Jak używać: Skrypt działa automatycznie w tle po aktywacji modyfikacji. 
+Mod nie wymaga żadnych skrótów klawiszowych. 
+Zakup paliwa w stacjonarnym zbiorniku jest droższy niż na publicznej stacji paliw. 
+Modyfikacja obsługuje tryb wieloosobowy. 
+Github: https://github.com/KryskiPL/FS25_RealisticPolishDieselPrice]]></pl>
     </description>
 
     <multiplayer supported="true"/>
