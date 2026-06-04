@@ -1,6 +1,8 @@
 # FS25_RealisticPolishDieselPrice
-Skrypt, który zmienia globalną cenę diesla na zbliżoną do polskiej rzeczywistości kwotę około 6,80 zł za litr (bez sztucznego przelicznika z Euro). 
-Uwaga: Zakup w zbiorniku paliwa jest droższy niż na stacji paliw. 
+
+Skrypt, który zmienia globalną cenę diesla na zbliżoną do polskiej rzeczywistości kwotę około 6,80 zł za litr (bez przelicznika z Euro).
+
+- Zakup w zbiorniku paliwa jest droższy niż na stacji paliw. 
 - Modyfikacja obsługuje tryb multiplayer.
 
 # Pobieranie
