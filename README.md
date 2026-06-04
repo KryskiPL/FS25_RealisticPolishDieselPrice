@@ -7,6 +7,7 @@ Skrypt, który zmienia globalną cenę diesla na zbliżoną do polskiej rzeczywi
 
 # Pobieranie
 
+- Po porostu z github pliki .xml, lua, .dds
 - **[KingMods (Updaty tu)](https://www.kingmods.net/pl/fs25/mods/78289/realistyczna-cena-polskiego-oleju-napedowego)**
 - **[LsPortal (stara wersja 1.0.0.0)](https://ls-portal.eu/pl/realistic-polish-diesel-price)**
 
