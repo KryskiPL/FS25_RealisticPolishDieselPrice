@@ -12,12 +12,12 @@ rdp.settingsDirectory = (g_modSettingsDirectory or (getUserProfileAppPath() .. "
 rdp.settingsFile = rdp.settingsDirectory .. "settings.xml"
 
 rdp.priceOptions = {
-    {label = "Poland (1.60 Euro)", price = 1.60},
-    {label = "Poland Hard (6.30 Euro)", price = 6.30},
-    {label = "Germany (1.80 Euro)", price = 1.80},
+    {label = "Poland (1.50 Euro)", price = 1.50},
+    {label = "Poland Hard (6.40 Euro)", price = 6.40},
+    {label = "Germany (1.88 Euro)", price = 1.88},
     {label = "France (1.59 Euro)", price = 1.59}
 }
-rdp.currentState = 2 
+rdp.currentState = 1
 rdp.menuInstalled = false
 rdp.menuControls = {}
 
